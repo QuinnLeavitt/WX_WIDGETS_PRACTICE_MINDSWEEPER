@@ -1,3 +1,6 @@
+// Quinn Leavitt
+// WXWidgets Practice Mindsweeper Project
+
 #pragma once
 #include "wx/wx.h"
 

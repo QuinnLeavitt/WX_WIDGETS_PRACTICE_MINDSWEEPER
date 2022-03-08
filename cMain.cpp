@@ -1,3 +1,6 @@
+// Quinn Leavitt
+// WXWidgets Practice Mindsweeper Project
+
 #include "cMain.h"
 
 //assigns the button to the buttonclicked function for the button event

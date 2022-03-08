@@ -1,3 +1,7 @@
+// Quinn Leavitt
+// WXWidgets Practice Mindsweeper Project
+
+
 #include "cApp.h"
 
 wxIMPLEMENT_APP(cApp);
