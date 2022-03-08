@@ -1,5 +1,5 @@
 // Quinn Leavitt
-// WXWidgets Practice Mindsweeper Project
+// WXWidgets Practice Minesweeper Project
 
 #include "cMain.h"
 
@@ -8,7 +8,7 @@ wxBEGIN_EVENT_TABLE(cMain, wxFrame)
 wxEND_EVENT_TABLE()
 
 
-cMain::cMain() : wxFrame(nullptr, wxID_ANY, "WX Widgets Mindsweeper Practice", wxPoint(30, 30), wxSize(800, 600))
+cMain::cMain() : wxFrame(nullptr, wxID_ANY, "WX Widgets Minesweeper Practice", wxPoint(30, 30), wxSize(800, 600))
 {
 	
 	btn = new wxButton * [nFieldWidth * nFieldHeight];
